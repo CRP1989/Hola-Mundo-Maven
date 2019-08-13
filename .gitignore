@@ -27,9 +27,9 @@ target/
 /.project
 /logs/
 
-siscop-caritas-ear/target/
-siscop-caritas-ejb/target/
-siscop-caritas-web/target/
+proyecto-ear/target/
+proyecto-ejb/target/
+proyecto-web/target/
 
 # Maven 
 target/
